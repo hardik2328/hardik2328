@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hardik2328
 - 👀 I’m interested in part time data science job.
 - 🌱 I’m currently pursuing my master's degree at RMIT, Melbourne.
-- 💞️ I’m looking to improve my skill sin data science.
+- 💞️ I’m looking to improve my skills in data science.
 - 📫 You can rech me at alagihardik@gmail.com
 
 <!---
